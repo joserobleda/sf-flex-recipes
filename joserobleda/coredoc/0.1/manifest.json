@@ -1,0 +1,8 @@
+{
+    "bundles": {
+        "CoreDoc\\CoreDocBundle\\CoreDocBundle": ["all"]
+    },
+    "copy-from-package": {
+        "config/": "%CONFIG_DIR%/"
+    }
+}
