@@ -4,5 +4,6 @@
     },
     "copy-from-package": {
         "config/": "%CONFIG_DIR%/"
-    }
+    },
+    "aliases": ["core-doc", "coredoc"]
 }
